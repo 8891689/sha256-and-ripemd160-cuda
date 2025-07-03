@@ -2,7 +2,7 @@
    Copyright (c) 2025 8891689
    author： https://github.com/8891689
 */
-//sha256_cuda.cuh
+//sha256.cuh
 
 #ifndef SHA256_CUH
 #define SHA256_CUH
