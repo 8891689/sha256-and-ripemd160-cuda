@@ -74,6 +74,11 @@ CPU computing reference hash chain...
 CPU computed hash:   fe8e79c54a597a07c24c622a7003ddd48e506004
 Verification PASSED!
 ```
+# Please fill in the table according to the compute capability of your graphics card.
+-arch=sm_ ?
+
+sm_61 1030 is 61, not 6.1. Please remove the decimal point in the following values.
+
 ```
 NVIDIA A100	8	RTX A5000	8.6	GeForce RTX 3090 Ti	8.6	GeForce RTX 3080 Ti	8.6
 NVIDIA A40	8.6	RTX A4000	8.6	GeForce RTX 3090	8.6	GeForce RTX 3080	8.6
