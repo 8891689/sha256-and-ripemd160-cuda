@@ -1,6 +1,6 @@
 // author： https://github.com/8891689
 // nvcc sha256_test.cu -o sha256_test -O3 -arch=sm_61
-#include "sha256_cuda.cuh"
+#include "sha256.cuh"
 #include <vector>
 #include <string>
 #include <cstring>
